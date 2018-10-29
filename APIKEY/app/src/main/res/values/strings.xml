@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="go">Go</string>
+    <string name="date">Date</string>
+    <string name="city">City</string>
+    <string name="suhu">Suhu</string>
+    <string name="cuaca">Cuaca</string>
+    <string name="proses">Proses</string>
+    <string name="test">Test</string>
+</resources>

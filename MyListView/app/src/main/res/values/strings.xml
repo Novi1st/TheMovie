@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="juventus_fc">Juventus FC</string>
+    <string name="list">List</string>
+    <string name="recycler">Recycler</string>
+    <string name="custom">Custom</string>
+</resources>
